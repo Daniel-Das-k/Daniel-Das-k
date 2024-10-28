@@ -56,7 +56,45 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
 ---
 
 ### 🏆 Key Projects & Highlights
+<h2 align="center">🏆 Key Projects & Highlights</h2>
 
+<table align="center">
+  <tr>
+    <td align="center">
+     <a href="https://www.youtube.com/watch?v=6Zw5p2oYKbo target="_blank">
+    <img src="https://img.youtube.com/vi/6Zw5p2oYKbo/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
+  </a>
+      <br /><b>Sixth Sense</b>
+    </td>
+    <td align="center">
+    <a href="https://www.youtube.com/watch?v=yECNddNCZBw target="_blank">
+    <img src="https://img.youtube.com/vi/yECNddNCZBw/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
+  </a>
+      <br /><b>EduSage</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=N5MBE-X0Ifk target="_blank">
+    <img src="https://img.youtube.com/vi/N5MBE-X0Ifk/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
+  </a>
+      <br /><b>VerbiQube</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://link-to-gif-of-isl.gif" alt="Indian Sign Language" width="300" />
+      <br /><b>Indian Sign Language</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
+      </a>
+      <br /><b>Your YouTube Project</b>
+    </td>
+  </tr>
+</table>
+
+
+N5MBE-X0Ifk
 <p align="center">
   <a href="https://www.youtube.com/watch?v=6Zw5p2oYKbo target="_blank">
     <img src="https://img.youtube.com/vi/6Zw5p2oYKbo/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
