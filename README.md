@@ -58,11 +58,17 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
 ### 🏆 Key Projects & Highlights
 
 <p align="center">
-  <img src="https://link-to-gif-of-sixth-sense.gif" alt="Sixth Sense" width="300" />
-  <img src="https://link-to-gif-of-verbiQube.gif" alt="VerbiQube" width="300" />
+  <a href="https://www.youtube.com/watch?v=6Zw5p2oYKbo target="_blank">
+    <img src="https://img.youtube.com/vi/6Zw5p2oYKbo/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
+  </a>
+    <a href="https://www.youtube.com/watch?v=yECNddNCZBw target="_blank">
+    <img src="https://img.youtube.com/vi/yECNddNCZBw/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
+  </a>
   <img src="https://link-to-gif-of-Edusage.gif" alt="EduSage" width="300" />
   <img src="https://link-to-gif-of-isl.gif" alt="Indian Sign Language" width="300" />
+ 
 </p>
+
 
 - **Sixth Sense**: Assistive tech app for visually impaired users featuring **object detection**, **navigation**, and **face recognition**.
 - **VerbiQube**: An AI-powered automation hub that processes **voice commands** for **task assistance**.
@@ -71,7 +77,7 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
   
 ---
 
-### 🎉 Languages known 
+### 🎉 Programming Languages known 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -99,15 +105,8 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
 ### 🎉 Let’s Connect!
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="mailto:danieldaskomarapu@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-  <a href="https://twitter.com/[your-handle]" target="_blank"><img src="https://img.shields.io/twitter/follow/[your-handle]?style=social" alt="Twitter" /></a>
-  <a href="mailto:danieldaskomarapu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" /></a>
-</p>
 
 ---
 
