@@ -55,7 +55,6 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
 
 ---
 
-### 🏆 Key Projects & Highlights
 <h2 align="center">🏆 Key Projects & Highlights</h2>
 
 <table align="center">
