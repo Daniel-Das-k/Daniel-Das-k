@@ -1,4 +1,4 @@
-<h1 align="center">Vanakam 👋, I'm Daniel Daa K</h1>
+<h1 align="center">Vanakam👋, I'm Daniel Das K</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-%231877F2?style=for-the-badge&logo=python&logoColor=white" />
