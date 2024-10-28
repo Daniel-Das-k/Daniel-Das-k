@@ -18,7 +18,7 @@
 
 I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to developing cutting-edge applications that make a difference. My projects revolve around **assistive technology**, **speech automation**, and **streamlined content creation** for social media.
 
-- 🔭 Currently enhancing **Automation Hub - Verbikube**, an AI-driven tool that converts voice commands into tasks.
+- 🔭 Passionate about developing projects that **tackle real-world challenges**.
 - 🌱 Expanding knowledge in **Large Language Models (LLMs)** and **Voice-Based Interactions**.
 - 🎤 Spoke at **5+ workshops** on **Generative AI**, **AI for Accessibility**, and **Automation Technologies**.
 
