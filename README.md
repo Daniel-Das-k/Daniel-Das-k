@@ -78,12 +78,6 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
       <br /><b>EduSage</b>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://link-to-gif-of-isl.gif" alt="Indian Sign Language" width="300" />
-      <br /><b>Indian Sign Language</b>
-    </td>
-  </tr>
 </table>
 
 
