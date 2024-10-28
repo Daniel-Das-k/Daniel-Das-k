@@ -84,12 +84,6 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
       <img src="https://link-to-gif-of-isl.gif" alt="Indian Sign Language" width="300" />
       <br /><b>Indian Sign Language</b>
     </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
-      </a>
-      <br /><b>Your YouTube Project</b>
-    </td>
   </tr>
 </table>
 
