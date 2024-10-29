@@ -42,6 +42,12 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Daniel-Das-k/Daniel-Das-k/output/snake.svg" alt="Snake animation" />
+
+---
+
 ### 🚀 Skills & Expertise
 
 | Skill                        | Tools & Frameworks                          | Projects                                      |
