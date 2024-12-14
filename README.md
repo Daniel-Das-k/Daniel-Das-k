@@ -81,7 +81,7 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
       <a href="https://www.youtube.com/watch?v=yECNddNCZBw" target="_blank">
         <img src="https://img.youtube.com/vi/yECNddNCZBw/hqdefault.jpg" alt="YouTube Video Thumbnail" width="300" />
       </a>
-      <br /><b>EduSage</b>
+      <br /><b>Procura</b>
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@ I’m a passionate **AI Engineer** and **Automation Specialist** dedicated to de
 
 - **Sixth Sense**: Assistive tech app for visually impaired users featuring **object detection**, **navigation**, and **face recognition**.
 - **VerbiQube**: An AI-powered automation hub that processes **voice commands** for **task assistance**.
-- **Edusage**:  Empowering students with interactive, **AI-driven learning experiences** tailored to enhance engagement and mastery in diverse subjects..
+- **Procura**:  Empowering students with interactive, **AI-driven learning experiences** tailored to enhance engagement and mastery in diverse subjects..
 - **Indian Sign Language Recognition**: Real-time ISL recognition app that translates sign language into text and audio.
   
 ---
